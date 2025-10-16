@@ -1,0 +1,11 @@
+Name, Age ,Email,JoinDate,Salary,Country,Notes
+Alice, 25,alice@@gmail.com,2021/01/15,50000,USA,"Good, but sometimes late"
+Bob,thirty,bob@gmail,15-02-2020,not available,United States,
+, 42,carol@company.com,2020-03-01,70000,US,""
+David, 29,david@company,2021-13-01,60000,UK,Missing salary info
+Eve, 22,eve@gmail.com,2020-05-20,55000,United Kingdom,
+Frank, ,frank@@mail.com,2019-11-31,48000,UK,
+Grace, 27,grace@mail.com,2021-07-10,NaN,England,
+Helen, 35,helen@company.com,2020-02-30,65000,UK,
+Ian, 28,ian@@gmail.com,2021-06-15,52000,United States,
+Julia, 31,julia@gmail.com,2020-08-25,not disclosed,UK,
